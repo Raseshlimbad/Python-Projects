@@ -1,9 +1,9 @@
-# CodeFixer - AI Code Reviewer
+# CodeFixer - AI-Powered Code Auditor with Generative Analysis
 
 ![Preview Image](./Images/image.png)
 
 ## Overview
-The **CodeFixer - AI Code Reviewer** is a Streamlit-based application that leverages Google's Generative AI models to review Python code. The app analyzes the submitted code, identifies bugs, errors, or areas of improvement, and provides fixed code snippets along with explanations for the corrections.
+The **CodeFixer - AI-Powered Code Auditor with Generative Analysis** is a Streamlit-based application that leverages Google's Generative AI models to review Python code. The app analyzes the submitted code, identifies bugs, errors, or areas of improvement, and provides fixed code snippets along with explanations for the corrections.
 
 ## Features
 - Submit Python code for review.
